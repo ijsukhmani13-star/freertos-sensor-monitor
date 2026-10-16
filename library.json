@@ -1,0 +1,7 @@
+{
+  "name": "signal_processing",
+  "version": "1.0.0",
+  "description": "Hardware-independent filtering and threshold logic (unit-tested on host)",
+  "frameworks": "*",
+  "platforms": "*"
+}
